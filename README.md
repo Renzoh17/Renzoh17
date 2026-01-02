@@ -19,7 +19,7 @@
 
 - [**API REST con Spring Boot**](https://github.com/Renzoh17/ProyectoBDD2) → Gestión de usuarios.  
 - [**Aplicación de escritorio en .NET**](https://github.com/Renzoh17/Renzoh17-App-ASPNET-) → Conexión a base de datos PostgreSQL.  
-- **Proyecto personal en React** → Sitio web con componentes dinámicos.  
+- [**Proyecto Simple con React y Python (gestión de gymnasio)**](https://github.com/Renzoh17/TP-Final-Prog4) → Sitio web con componentes dinámicos.  
 
 ---
 
